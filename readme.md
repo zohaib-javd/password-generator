@@ -3,17 +3,16 @@
 ## 🚀 Live Demo
 [Live Link Placeholder - Replace with your Streamlit Deployment URL]
 
-## 📸 App Preview
-![App Screenshot 1](image/screenshot1.png)
-![App Screenshot 2](image/screenshot2.png)
-
 ## 📜 About the Project
 This is a **secure, easy-to-use password & passphrase generator** built using **Streamlit**. It allows users to:
 
-✅ Generate **random secure passwords** with adjustable lengths
-✅ Generate **passphrases** using a local word list
-✅ Easily **copy & use** generated results
-✅ Get **security tips** for better password management
+✅ Generate **random secure passwords** with adjustable lengths.
+
+✅ Generate **passphrases** using a local word list.
+
+✅ Easily **copy & use** generated results.
+
+✅ Get **security tips** for better password management.
 
 ---
 
@@ -32,7 +31,10 @@ pip install -r requirements.txt
 ```bash
 streamlit run app.py
 ```
-
+---
+## 📸 App Preview
+![App Screenshot 1](image/screenshot1.png)
+![App Screenshot 2](image/screenshot2.png)
 ---
 
 ## 📌 Features
