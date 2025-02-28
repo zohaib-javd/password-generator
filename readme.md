@@ -1,7 +1,7 @@
 # 🔑 Custom Password & Passphrase Generator
 
 ## 🚀 Live Demo
-[Live Link Placeholder - Replace with your Streamlit Deployment URL]
+[[Live Link](https://password-generator-zeejay.streamlit.app/)]
 
 ## 📜 About the Project
 This is a **secure, easy-to-use password & passphrase generator** built using **Streamlit**. It allows users to:
